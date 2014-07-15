@@ -1,0 +1,1716 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"load",
+				"loadProducts"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"map",
+				"mapRef"
+			],
+			[
+				"StructK",
+				"structKeyList	fn. (cfscript)"
+			],
+			[
+				"uploa",
+				"uploadPath"
+			],
+			[
+				"thr",
+				"throw	TagOp. (cfscript)"
+			],
+			[
+				"component",
+				"component	TagOp. (cfscript)"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"county",
+				"countyIndex"
+			],
+			[
+				"get",
+				"getCountyId"
+			],
+			[
+				"d",
+				"description	@description"
+			],
+			[
+				"write",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"count",
+				"countyEnrollments"
+			],
+			[
+				"str",
+				"struct	Argument Type"
+			],
+			[
+				"start",
+				"startTimer"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"prod",
+				"prodId"
+			],
+			[
+				"ma",
+				"mapRef"
+			],
+			[
+				"product",
+				"productIndex"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"que",
+				"queryString"
+			],
+			[
+				"L",
+				"Library"
+			],
+			[
+				"st",
+				"st0"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Int",
+				"interestsText"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"n",
+				"newsletter"
+			],
+			[
+				"Las",
+				"Last_Name"
+			],
+			[
+				"First",
+				"First_Name"
+			],
+			[
+				"media",
+				"medialogic_contacts"
+			],
+			[
+				"mc_",
+				"mc_decrypt"
+			],
+			[
+				"fin",
+				"financial-services"
+			],
+			[
+				"phase",
+				"phaseText"
+			],
+			[
+				"default",
+				"defaultStruct"
+			],
+			[
+				"phas",
+				"phaseTextQry"
+			],
+			[
+				"cu",
+				"cutoffDate_text"
+			],
+			[
+				"Archive",
+				"Archive_Ind"
+			],
+			[
+				"sort",
+				"sortorder"
+			],
+			[
+				"footnote",
+				"footnoteArray"
+			],
+			[
+				"Array",
+				"arrayAppend	fn. (cfscript)"
+			],
+			[
+				"footnot",
+				"footnoteArray"
+			],
+			[
+				"appl",
+				"APPLICATION"
+			],
+			[
+				"final_",
+				"short_final_date"
+			],
+			[
+				"signe",
+				"signed_request"
+			],
+			[
+				"image",
+				"imageFromForm"
+			],
+			[
+				"signed",
+				"signed_request_string"
+			],
+			[
+				"bullet",
+				"bullet_id"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Partner",
+				"Partner_Page_ID"
+			],
+			[
+				"Structkey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"A",
+				"APPLYLINK"
+			],
+			[
+				"partner",
+				"partnerObj"
+			],
+			[
+				"Card",
+				"Card_Id"
+			],
+			[
+				"Bull",
+				"Bullet_Text"
+			],
+			[
+				"re",
+				"required	Argument Keyword"
+			],
+			[
+				"archive",
+				"archivetext"
+			],
+			[
+				"argument",
+				"argumentCollection"
+			],
+			[
+				"Arr",
+				"arrayLen	fn. (cfscript)"
+			],
+			[
+				"app",
+				"APPLICATION"
+			],
+			[
+				"structK",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"per",
+				"percentFPL"
+			],
+			[
+				"proj",
+				"projPhoto"
+			],
+			[
+				"org",
+				"organization"
+			],
+			[
+				"formpr",
+				"formprocessor"
+			],
+			[
+				"t",
+				"type=\"string\"	type"
+			],
+			[
+				"show",
+				"showForm"
+			],
+			[
+				"session",
+				"sessionStruct"
+			],
+			[
+				"why",
+				"whywin"
+			],
+			[
+				"showAuth",
+				"showAuthInfo"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"serial",
+				"serializeJSON	fn. (cfscript)"
+			],
+			[
+				"Promotion",
+				"Promotion_Entry_Short_URL"
+			],
+			[
+				"short",
+				"shortURL"
+			],
+			[
+				"Appro",
+				"Approved"
+			],
+			[
+				"deny",
+				"denyResponse"
+			],
+			[
+				"proto",
+				"protocol"
+			],
+			[
+				"listFind",
+				"listFindNoCase	fn. (cfscript)"
+			],
+			[
+				"blank",
+				"blankFieldList"
+			],
+			[
+				"list",
+				"listLen	fn. (cfscript)"
+			],
+			[
+				"email",
+				"emailInvalid"
+			],
+			[
+				"select",
+				"selectThisVideo"
+			],
+			[
+				"getWord",
+				"getWordCountOf"
+			],
+			[
+				"mou",
+				"mouseout"
+			],
+			[
+				"post",
+				"post_title"
+			],
+			[
+				"pl",
+				"plancounter"
+			],
+			[
+				"matching",
+				"matching_plan"
+			],
+			[
+				"plan",
+				"plan_item"
+			],
+			[
+				"fil",
+				"file_path"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Struck",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"StructKey",
+				"structKeyExists	fn. (cfscript)"
+			],
+			[
+				"Writ",
+				"writeOutput	fn. (cfscript)"
+			],
+			[
+				"com",
+				"component	New CFC"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"P",
+				"PATH_TRANSLATED"
+			],
+			[
+				"writ",
+				"writeDump	fn. (cfscript)"
+			],
+			[
+				"mail",
+				"mail_result"
+			],
+			[
+				"COU",
+				"country_name"
+			],
+			[
+				"stree",
+				"street_address_2"
+			],
+			[
+				"django",
+				"Django"
+			],
+			[
+				"p",
+				"property	TagOp. (cfscript)"
+			],
+			[
+				"r",
+				"required=\"true\"	required"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/enter-not.cfm",
+			"settings":
+			{
+				"buffer_size": 15215,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/enter.cfm",
+			"settings":
+			{
+				"buffer_size": 25998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/components/PhotoPromotionForm.cfc",
+			"settings":
+			{
+				"buffer_size": 24092,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/components/Encrypted_Photo_Promotion.cfc",
+			"settings":
+			{
+				"buffer_size": 13742,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/components/Photo_promotions.cfc",
+			"settings":
+			{
+				"buffer_size": 32667,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/testListing.cfm",
+			"settings":
+			{
+				"buffer_size": 135,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test1.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 63.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: jquery"
+			],
+			[
+				"cfsc",
+				"Snippet: query(cfscript)"
+			],
+			[
+				"",
+				"Create file from Template"
+			]
+		],
+		"width": 466.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/js/manage.js",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/css/styles.css",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/js/map4.js",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/v2/detail.html",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/v2/js/map.js",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/v2/jQsvg_plugin.html",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/js/map.js",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/remote/Data.cfc",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/manage/index.cfm",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/manage/confirmation.cfm",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/css/manage.css",
+		"/Users/jimokeefe/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/components/excelfileconverter.cfc",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/components/FileService.cfc",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/try/excel2db-Private.cfm",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/try/excel2db-Medicaid.cfm",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/try/excel2db-CHiP.cfm",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/components/PrivateExcelFileconverter2.cfc",
+		"/Users/jimokeefe/Library/Application Support/Sublime Text 2/Packages/User/ColdFusion.sublime-settings",
+		"/Users/jimokeefe/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/data/MedicaidCHIP-March2014.xls",
+		"/Volumes/www/devroot/medialogic.com/wp-content/themes/medialogic/header.php",
+		"/Volumes/www/devroot/medialogic.com/wp-content/themes/medialogic/functions.php",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/js/jquery-1.11.1.min.js",
+		"/Volumes/isprodcf_vol1/usbank/facebook/partnercard-elan/Application.cfc",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/components/PrivateExcelFileconverter.cfc",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/components/CHiPexcelFileConverter.cfc",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/components/MedicaidExcelFileConverter.cfc",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/detail.html",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/js/maps.js",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/newyork2.html",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/js/map3.js",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/newyork4.html",
+		"/Users/jimokeefe/Documents/excel2db-CHiP.cfm",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/maps/OLD/NY-VT2.svg",
+		"/Volumes/devroot/medialogic.com/wp-content/themes/medialogic/newsletter-confirmation.php",
+		"/Volumes/devroot/medialogic.com/wp-content/themes/medialogic/contact-confirmation.php",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/newyork1.cfm",
+		"/Volumes/ISDEVCF_VOL1/discovermvp-dashboard/newyork1.html",
+		"/Volumes/devroot/medialogic.com/wp-content/plugins/LayerSlider/includes/slider_markup_html.php",
+		"/Volumes/devroot/medialogic.com/wp-content/themes/medialogic/inc/custom-header.php",
+		"/Volumes/devroot/medialogic.com/wp-content/themes/medialogic/static/work-health-care-mvp-projectgo.php",
+		"/Volumes/devroot/medialogic.com/wp-content/themes/medialogic/static/work-health-care-sphp-unite.php",
+		"/Users/jimokeefe/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/phptest/index.php",
+		"/Library/WebServer/Documents/photocontest/components/navigation.cfc",
+		"/Library/WebServer/Documents/photocontest/finalists.cfm",
+		"/Users/jimokeefe/Library/Application Support/Sublime Text 2/Packages/User/query(cfscript)new.sublime-snippet",
+		"/Volumes/ISDEVCF_VOL1/photocontest/components/test2test.cfc",
+		"/Volumes/ISDEVCF_VOL1/photocontest/components/testingtesting.cfc",
+		"/Volumes/ISDEVCF_VOL1/photocontest/components/testfilefromtemp.cfc",
+		"/Volumes/ISDEVCF_VOL1/photocontest/sass/jquery.dogs.js",
+		"/Volumes/ISDEVCF_VOL1/photocontest/testQuery.cfm",
+		"/Volumes/ISDEVCF_VOL1/photocontest/components/Teaser.cfc",
+		"/Volumes/ISDEVCF_VOL1/photocontest/components/PhotoPromotionForm.cfc",
+		"/Volumes/ISDEVCF_VOL1/photocontest/components/subscribers.cfc",
+		"/Volumes/devroot/discovermvp.com/wp-content/themes/discovermvp/quote.php",
+		"/Users/jimokeefe/Desktop/flickr_sizes.html",
+		"/Volumes/ISDEVCF_VOL1/mvpprojectgo.com/index.cfm",
+		"/Volumes/ISDEVCF_VOL1/mvpprojectgo.com/css/screen.css",
+		"/Volumes/ISDEVCF_VOL1/usbank/facebook/partnercard-elan/manage/toggleBullet.cfm",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/Application.cfc",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-is-your-everywhere/Application.cfc",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-is-your-everywhere/enter.cfm",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-is-your-everywhere/index.cfm",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-is-your-everywhere/includes/contestDateManager.cfm",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-is-your-everywhere/header.cfm",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-do-you-winter/includes/utilityFunctions.cfm",
+		"/Volumes/devroot/discovermvp.com/holidaycard/index.html",
+		"/Volumes/ISDEVCF_VOL1/usbank/facebook/partnercard-elan/manage/detail.cfm",
+		"/Volumes/ISDEVCF_VOL1/usbank/dataUpdater.cfm",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/promotions/dealsandsteals/tab/index.cfm",
+		"/Volumes/devroot/joinmvp.com/wp-content/themes/joinmvp/confirmation-vt.php",
+		"/Volumes/www",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/javascript/llbcore.js",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-do-you-winter/components/PhotoPromotionForm.cfc",
+		"/Volumes/ISDEVCF_VOL1/llbean/everywhere/where-do-you-winter/Application.cfc",
+		"/Volumes/ISDEVCF_VOL1/mvpprojectgo.com/enter.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/css/style.css",
+		"/Volumes/ISDEVCF_VOL1/mlinc.com/application.cfc",
+		"/Volumes/www/devroot/joinmvpmedicare.com/wp-content/themes/joinmvpmedicare/form-find-plan.php",
+		"/Volumes/www/devroot/joinmvpmedicare.com/wp-content/themes/joinmvpmedicare/attend-meeting.php",
+		"/Volumes/ISDEVCF_VOL1/mvpgamechanger.com/Application.cfc",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/components/subscribers.cfc",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/components/mailservice.cfc",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/components/Authenticate.cfc",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/manage/login.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/scss/style.scss",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/vote_confirmation.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/js/listing.js",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/components/promotions.cfc",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/vote.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/manage/listing.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/js/manageListing.js",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/js/detail.js",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/Application.cfc",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/detail.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/listing.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/about.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/includes/footer.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/includes/header.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/web/includes/nav.cfm",
+		"/Volumes/ISDEVCF_VOL1/llbean/part2/js/jquery.textareaCounter.js",
+		"/Volumes/isprodcf_vol1/mlinc.com/ageinwebinar/webinar.vcs",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/manage/dealsandsteals/login.cfm",
+		"/Volumes/ISDEVCF_VOL1/americangirl.com/includes/FB_check_access.cfm",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/includes/FB_check_access.cfm",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/manage/dealsandsteals/index-demo.html",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/promotions/glee/listing.cfm",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/includes/optin_deals_steals.js",
+		"/Users/jimokeefe/Desktop/popupwindow.html",
+		"/Volumes/isprodcf_vol1/mlinc.com/components/Webex.cfc",
+		"/Volumes/ISDEVCF_VOL1/cornellsystemsengineering.com/calendar/20111101.vcs",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/manage/dealsandsteals/details-demo.html",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/manage/dealsandsteals/index-demo.cfm",
+		"/Users/jimokeefe/Desktop/webinar.vcs",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/promotions/dealsandsteals/index.cfm",
+		"/Volumes/isprodcf_vol1/mlinc.com/components/forms.cfc",
+		"/Volumes/isprodcf_vol1/mlinc.com/expertise/slidesOLD.cfm",
+		"/Volumes/www/proofroot/comfortex/persona/inquiry.php",
+		"/Users/jimokeefe/Desktop/inquiry.php",
+		"/Volumes/ISDEVCF_VOL1/fyeguy.com/promotions/dealsandsteals/index_4-12-13.cfm",
+		"/Volumes/ISDEVCF_VOL1/mlinc.com/components/taffy/resources/employees",
+		"/Volumes/ISDEVCF_VOL1/annex.mlinc.com/REST/index.html",
+		"/Volumes/devroot/sites.fortitech.com/wp-config.php",
+		"/Volumes/devroot/sites.fortitech.com/wp-content/themes/fortitech/solution-starter.php",
+		"/Volumes/devroot/sites.fortitech.com/wp-settings.php",
+		"/Volumes/ISDEVCF_VOL1/mlinc.com/optin/index.cfm"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"check",
+			"deleted",
+			"session",
+			"private",
+			"div",
+			"map",
+			"currentRegion =",
+			"results",
+			"enrollments",
+			"Enrollments",
+			"enrollments",
+			"loadColors",
+			"obj",
+			"oneidany",
+			"F",
+			"6",
+			"_BACKUP",
+			"queryString",
+			"php",
+			"field",
+			"yatesny",
+			"seneca",
+			"class=\"st3\"",
+			"class=\"st2\"",
+			"class=\"st1\"",
+			"POST",
+			"_POST",
+			"selected",
+			"TV",
+			"])",
+			"APPLICATION",
+			"application",
+			"APPLICATION",
+			"dog",
+			"phaseTextLISTING",
+			"final_date",
+			"cutoff_date",
+			"start_date",
+			"phase",
+			"request",
+			"start_date",
+			"img",
+			"text",
+			"id",
+			"mvpprojectgo2013",
+			"getClass",
+			"topVotes",
+			"signed_request_string",
+			"validationResults",
+			"“",
+			"”",
+			"card",
+			"Card",
+			"card",
+			">\n",
+			"partnerObj",
+			"termsconditions",
+			"link",
+			"card",
+			"Card",
+			"card",
+			"partner",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"GetParks",
+			"termsconditions",
+			"cardname",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"Ad",
+			"ad",
+			"reportInfo",
+			"text",
+			"reportInfo",
+			"cardname",
+			"partner",
+			"Partner",
+			"partner",
+			"372.61",
+			"277.95"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/enter-not.cfm",
+					"settings":
+					{
+						"buffer_size": 15215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/enter.cfm",
+					"settings":
+					{
+						"buffer_size": 25998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3171,
+								3171
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 944.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/components/PhotoPromotionForm.cfc",
+					"settings":
+					{
+						"buffer_size": 24092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1412,
+								1433
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 467.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/components/Encrypted_Photo_Promotion.cfc",
+					"settings":
+					{
+						"buffer_size": 13742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8695,
+								8695
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2608.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/components/Photo_promotions.cfc",
+					"settings":
+					{
+						"buffer_size": 32667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22288,
+								22288
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ColdFusion/ColdFusionCFC.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2547.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Library/WebServer/Documents/llbean/go-play-giveaway/testListing.cfm",
+					"settings":
+					{
+						"buffer_size": 135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/ColdFusion/HTML+CFML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "test1.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 324.0,
+	"status_bar_visible": true
+}
